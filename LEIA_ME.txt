@@ -1,0 +1,33 @@
+SITE RÊNSONI FAGUNDES - FLOW CREATE
+
+Este pacote contém o site completo na paleta azul.
+
+COMO ABRIR
+1. Extraia o ZIP.
+2. No VS Code, use Arquivo > Abrir Pasta e escolha a pasta extraída.
+3. Abra index.html no navegador para visualizar. Um servidor de prévia local também pode ser usado.
+
+COMO PUBLICAR
+O site é estático: HTML, CSS e JavaScript. Todas as imagens e fontes estão incluídas na pasta assets.
+Publique a pasta que contém index.html e mantenha a pasta assets ao lado dele.
+Diretório de publicação: a raiz deste pacote.
+Comando de build: nenhum.
+Instalação de dependências: nenhuma.
+
+DOMÍNIO PRÓPRIO
+Depois de publicar, adicione seu domínio nas configurações da hospedagem escolhida e configure os registros DNS indicados por ela no provedor do domínio. O VS Code é o editor; a hospedagem fornece o endereço de acesso ao site.
+
+CONTATOS JÁ CONFIGURADOS
+Instagram: https://www.instagram.com/psi.rfagundes/
+WhatsApp: https://wa.me/5521999649155
+Número: +55 (21) 99964-9155
+Os botões principais abrem o Instagram diretamente. O WhatsApp também está disponível na seção de contato e no rodapé.
+
+ARQUIVOS
+index.html - conteúdo e links de contato.
+styles.css - cores, tipografia e layout responsivo.
+app.js - menu móvel e janelas das reflexões.
+favicon.svg - ícone do site.
+assets/ - imagens, fontes locais e respectiva licença.
+
+O conteúdo continua identificado como proposta conceitual da Flow Create, com os avisos já presentes no modelo. A meta robots permanece como noindex,nofollow enquanto for uma demonstração.
